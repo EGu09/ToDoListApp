@@ -3,8 +3,6 @@
 ## Overview
 A simple yet feature-rich ToDo List app built for Android using Kotlin. This app allows users to easily create, manage, and track their tasks with time deadlines and completion status indicators.
 
-![App Screenshot Placeholder](https://via.placeholder.com/300x600.png?text=ToDo+List+App)
-
 ## Features
 - Add new tasks quickly with a clean, intuitive interface
 - Set time deadlines for each task using a time picker dialog
