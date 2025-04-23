@@ -66,4 +66,3 @@ Approximately 10 hours developing this application:
 - [Dialog Implementation](https://developer.android.com/develop/ui/views/components/dialogs)
 - [TimePickerDialog](https://developer.android.com/reference/android/app/TimePickerDialog)
 - [Text Paint Flags for Strike-Through](https://developer.android.com/reference/android/graphics/Paint#STRIKE_THRU_TEXT_FLAG)
-- 
