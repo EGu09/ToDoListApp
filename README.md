@@ -34,20 +34,12 @@ A simple yet feature-rich ToDo List app built for Android using Kotlin. This app
 - **Set a deadline**: Tap the "Set Time" button to select a time using the time picker
 - **Delete a task**: Tap the "Delete" button to remove the task from your list
 
-## Installation
-1. Clone this repository:
-   ```
-   git clone https://github.com/YOUR_USERNAME/ToDoList.git
-   ```
-2. Open the project in Android Studio
-3. Run the app on an emulator or physical device
-
 ## Development Process
 
 ### Time Spent
 Approximately 10 hours developing this application:
 - 2 hours on initial project setup and UI design
-- 3 hours implementing core functionality (add, delete, complete tasks)
+- 6 hours implementing core functionality (add, delete, complete,edit tasks)
 - 2 hours adding the time picker and deadline functionality
 - 2 hours implementing the double-tap edit feature
 - 1 hour testing and bug fixing
@@ -74,10 +66,4 @@ Approximately 10 hours developing this application:
 - [Dialog Implementation](https://developer.android.com/develop/ui/views/components/dialogs)
 - [TimePickerDialog](https://developer.android.com/reference/android/app/TimePickerDialog)
 - [Text Paint Flags for Strike-Through](https://developer.android.com/reference/android/graphics/Paint#STRIKE_THRU_TEXT_FLAG)
-
-## License
-This project is created for educational purposes.
-
-## Author
-[Your Name]
-[Your Email/Contact Information]
+- 
